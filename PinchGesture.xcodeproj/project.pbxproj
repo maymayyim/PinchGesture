@@ -12,6 +12,7 @@
 		0AD504A61FB3F9DC00287A65 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0AD504A41FB3F9DC00287A65 /* Main.storyboard */; };
 		0AD504A81FB3F9DC00287A65 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0AD504A71FB3F9DC00287A65 /* Assets.xcassets */; };
 		0AD504AB1FB3F9DC00287A65 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0AD504A91FB3F9DC00287A65 /* LaunchScreen.storyboard */; };
+		0AD504B31FB3FAA800287A65 /* kitty.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0AD504B21FB3FAA700287A65 /* kitty.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		0AD504A71FB3F9DC00287A65 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0AD504AA1FB3F9DC00287A65 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0AD504AC1FB3F9DC00287A65 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0AD504B21FB3FAA700287A65 /* kitty.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = kitty.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		0AD5049F1FB3F9DC00287A65 /* PinchGesture */ = {
 			isa = PBXGroup;
 			children = (
+				0AD504B21FB3FAA700287A65 /* kitty.jpg */,
 				0AD504A01FB3F9DC00287A65 /* AppDelegate.swift */,
 				0AD504A21FB3F9DC00287A65 /* ViewController.swift */,
 				0AD504A41FB3F9DC00287A65 /* Main.storyboard */,
@@ -124,6 +127,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0AD504AB1FB3F9DC00287A65 /* LaunchScreen.storyboard in Resources */,
+				0AD504B31FB3FAA800287A65 /* kitty.jpg in Resources */,
 				0AD504A81FB3F9DC00287A65 /* Assets.xcassets in Resources */,
 				0AD504A61FB3F9DC00287A65 /* Main.storyboard in Resources */,
 			);
